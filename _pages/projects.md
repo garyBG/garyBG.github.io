@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Annotated Bibliography
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Academic and personal.
 nav: true
-display_categories: [work, fun]
+display_categories: [acedemic, personal]
 horizontal: false
 ---
 
