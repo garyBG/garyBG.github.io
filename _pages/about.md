@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Full name is Guiragos, but Gary and/or GG are much easier to pronounce. Born and raised in Plovdiv, Bulgaria but of Greek and Armenian heritage. 
+CHeck for Changes>Full name is Guiragos, but Gary and/or GG are much easier to pronounce. Born and raised in Plovdiv, Bulgaria but of Greek and Armenian heritage. 
 
 Currently, an undergraduate at UW Bothell pursuing a double degree in CSSE (Computer Science & Software Engineering) and MTV ( Mathematical Thinking and Data Analysis) to be completed in 2022. 
 
