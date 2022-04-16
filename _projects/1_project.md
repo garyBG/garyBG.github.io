@@ -4,7 +4,7 @@ title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Data Science
 ---
 
 Every project has a beautiful feature showcase page.
@@ -19,7 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
-
+<iframe src="https://onedrive.live.com/embed?cid=A3620380E3656156&amp;resid=A3620380E3656156%211917&amp;authkey=AKMJaDkkBsS_TMI&amp;em=2" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

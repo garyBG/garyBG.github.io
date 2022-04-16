@@ -2,9 +2,9 @@
 layout: page
 title: Annotated Bibliography
 permalink: /projects/
-description: Academic and personal.
+description: Academic and Personal Projects through IAS carreer.
 nav: true
-display_categories: [acedemic, personal]
+display_categories: [Geography and Ecology, Data Science, Collaborative Community Work, Academic Papers, work]
 horizontal: false
 ---
 
