@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://github.com/garyBG'>Github</a>   gg99@uw.edu   SEATTLE
 
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-CHeck for Changes>Full name is Guiragos, but Gary and/or GG are much easier to pronounce. Born and raised in Plovdiv, Bulgaria but of Greek and Armenian heritage. 
+Full name is Guiragos, but Gary and/or GG are much easier to pronounce. Born and raised in Plovdiv, Bulgaria but of Greek and Armenian heritage. 
 
 Currently, an undergraduate at UW Bothell pursuing a double degree in CSSE (Computer Science & Software Engineering) and MTV ( Mathematical Thinking and Data Analysis) to be completed in 2022. 
 
