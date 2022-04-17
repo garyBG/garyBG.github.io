@@ -12935,7 +12935,6 @@ distill-header .nav a {
     overflow: hidden;
     margin-top: -12px;
     white-space: pre-wrap;
-    word-wrap: break-word;
   }
 
   distill-appendix > * {

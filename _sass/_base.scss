@@ -71,7 +71,11 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
-    white-space: nowrap;
+    white-space: -moz-pre-wrap; /* Firefox */
+    white-space: -o-pre-wrap; /* Opera */
+    white-space: pre-wrap; /* Chrome */
+    word-wrap: break-word; /* IE */
+   
   }
 
   .card-item {
