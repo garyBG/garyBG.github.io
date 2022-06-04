@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /reflectessay/
 title: Reflections Essay
 description: 
 nav: true
