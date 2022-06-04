@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='https://github.com/garyBG'>Github</a>   gg99@uw.edu   SEATTLE
