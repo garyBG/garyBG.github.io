@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /capessay/
-title: Capstone Essay
+title: capstone essay
 description: 
 years: 
 nav: True

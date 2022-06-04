@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /reflectessay/
-title: Reflections Essay
+title: reflections essay
 description: 
 nav: true
 ---

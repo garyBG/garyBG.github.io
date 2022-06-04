@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annotated Bibliography
+title: annotated bibliography
 permalink: /projects/
 description: Academic and Personal Projects through IAS carreer.
 nav: true

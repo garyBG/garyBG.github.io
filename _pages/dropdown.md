@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: resume
 nav: true
 dropdown: false
 children: 
